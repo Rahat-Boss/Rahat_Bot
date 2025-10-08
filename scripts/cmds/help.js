@@ -122,7 +122,7 @@ module.exports = {
       help += "│ 💡 Tips:\n";
       help += "│ • /help <cmd>\n";
       help += "│ • /help | <category>\n";
-      help += "│👉আমার বস: m.me/61561511477968\n";
+      help += "│👉আমার বস:m.me/61581900625860\n";
       help += "╰─────────────◊\n";
       help += "         「 🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰 」";
 
